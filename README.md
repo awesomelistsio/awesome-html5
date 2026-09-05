@@ -1,4 +1,4 @@
-# Awesome HTML5 [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome HTML5 [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1031057630.svg)](https://doi.org/10.5281/zenodo.19673367)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -88,10 +88,10 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- **[Awesome CSS](https://github.com/awesomelistsio/awesome-css)** – Styling and layout with CSS.
-- **[Awesome JavaScript](https://github.com/awesomelistsio/awesome-javascript)** – Programming with JavaScript for front-end interactivity.
-- **[Awesome Web Accessibility](https://github.com/awesomelistsio/awesome-web-accessibility)** – Accessible HTML design.
-- **[Awesome Web Performance](https://github.com/awesomelistsio/awesome-wpo)** – Optimize HTML pages for speed and performance.
+- **[Awesome CSS](https://github.com/brandonhimpfen/awesome-css)** – Styling and layout with CSS.
+- **[Awesome JavaScript](https://github.com/brandonhimpfen/awesome-javascript)** – Programming with JavaScript for front-end interactivity.
+- **[Awesome Web Accessibility](https://github.com/brandonhimpfen/awesome-web-accessibility)** – Accessible HTML design.
+- **[Awesome Web Performance](https://github.com/brandonhimpfen/awesome-wpo)** – Optimize HTML pages for speed and performance.
   
 ## Contribute
 
